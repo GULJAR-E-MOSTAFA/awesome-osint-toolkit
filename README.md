@@ -325,6 +325,7 @@ The **OSINT Framework** is a powerful, categorized collection of tools and metho
 | [Recorded Future](https://recordedfuture.com) | Website |
 | [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com) | Website |
 | [Hudson Rock Cybercrime Intelligence Toolset](https://hudsonrock.com) | Website |
+| [ICHI – Internet Cyber Health Index](https://ichi.global) | Website |
 
 ## 🔒 OpSec (Operational Security)
 
