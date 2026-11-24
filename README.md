@@ -224,6 +224,7 @@ The **OSINT Framework** is a powerful, categorized collection of tools and metho
 | [Wikimapia](https://wikimapia.org) | Website |
 | [GeoGuessr](https://geoguessr.com) | Website |
 | [What3Words](https://what3words.com) | Website |
+| [H1DR4 Incident Map](https://h1dr4.dev/map) | Website |
 
 ## 📋 Metadata
 
